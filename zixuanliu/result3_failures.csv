@@ -1,3 +1,0 @@
-Method,Name,Error,Occurrences
-GET,/numericalintegralservice/0/3.14159,499 Client Error:  for url: https://zixuanliuintegral.azurewebsites.net/numericalintegralservice/0/3.14159,27
-GET,/numericalintegralservice/0/3.14159,504 Server Error: Gateway Timeout for url: https://zixuanliuintegral.azurewebsites.net/numericalintegralservice/0/3.14159,50
