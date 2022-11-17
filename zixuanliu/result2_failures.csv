@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+GET,/numericalintegralservice/0/3.14159,[Errno 104] Connection reset by peer,1
+GET,/numericalintegralservice/0/3.14159,[Errno 111] Connection refused,19
+GET,/numericalintegralservice/0/3.14159,Remote end closed connection without response,100
